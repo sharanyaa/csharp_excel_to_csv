@@ -14,4 +14,4 @@ ExcelToCsv: Class has methods to convert a valid .xls or .xlsx file into CSV fil
 ConvertExec: In main method, file path is checked if it's valid.
 				Instantiates ExcelToCsv and calls the Convert method.
 
-There are no tenporary files used. However, an output (.csv) file is created in the file system.
+There are no temporary files used. However, an output (.csv) file is created in the file system.
